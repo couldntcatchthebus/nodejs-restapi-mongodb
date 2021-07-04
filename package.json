@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-restapi-mongodb",
+  "version": "1.0.0",
+  "description": "Nodejs REST API with MongoDB example.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couldntcatchthebus/nodejs-restapi-mongodb.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest",
+    "api",
+    "mongodb"
+  ],
+  "author": "couldntcatchthebus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/couldntcatchthebus/nodejs-restapi-mongodb/issues"
+  },
+  "homepage": "https://github.com/couldntcatchthebus/nodejs-restapi-mongodb#readme"
+}
